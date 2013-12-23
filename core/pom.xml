@@ -19,7 +19,7 @@
   <parent>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-functor-parent</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-MahiFx</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>commons-functor</artifactId>
